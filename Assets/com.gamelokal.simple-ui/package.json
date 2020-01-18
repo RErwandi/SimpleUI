@@ -12,5 +12,12 @@
 		"name": "Reynold Erwandi",
 		"email": "reynolderwandi@gmail.com",
 		"url": "https://erwandi.com"
-	}
+	},
+	"samples": [
+		{
+			"displayName": "Demo",
+			"description": "Sample usage for Simple UI menu management",
+			"path": "Samples~/Demo"
+		}
+	]
 }
