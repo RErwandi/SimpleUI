@@ -1,0 +1,16 @@
+{
+	"name": "com.gamelokal.simple-ui",
+	"version": "1.0.1",
+	"displayName": "GameLokal Simple UI Framework",
+	"description": "A simple UI management for Unity",
+	"unity": "2019.1",
+	"dependencies": {
+
+	},
+	"keywords": ["ui", "utility", "gui"],
+	"author": {
+		"name": "Reynold Erwandi",
+		"email": "reynolderwandi@gmail.com",
+		"url": "https://erwandi.com"
+	}
+}
